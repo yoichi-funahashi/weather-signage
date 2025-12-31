@@ -3,7 +3,7 @@
 raspberry pi 5 用の天気予報表示アプリです。
 fletを使用して作成しています。
 
-!["screen"]("screen.png")
+!["screen"](screen.png)
 
 ## setup
 ### os update
