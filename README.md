@@ -3,7 +3,7 @@
 raspberry pi 5 用の天気予報表示アプリです。
 fletを使用して作成しています。
 
-!["screen"]("https://github.com/yoichi-funahashi/weather-signage.git/screen.png")
+!["screen"]("https://github.com/yoichi-funahashi/weather-signage/blob/main/screen.png")
 
 ## setup
 ### os update
